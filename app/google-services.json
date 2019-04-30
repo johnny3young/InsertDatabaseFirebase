@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973382351168",
+    "firebase_url": "https://insertardatos-924fb.firebaseio.com",
+    "project_id": "insertardatos-924fb",
+    "storage_bucket": "insertardatos-924fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973382351168:android:6bc4a6de1b868d2d",
+        "android_client_info": {
+          "package_name": "com.ejemplo.app.insertdatabasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973382351168-e364d7gd11jmbdpv7eni2f1a71uiotd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ejemplo.app.insertdatabasefirebase",
+            "certificate_hash": "c4bd4159c84986b61b205079d06280f329c1d53f"
+          }
+        },
+        {
+          "client_id": "973382351168-2bish4pm2iqpqcaau2iuh6hganvqcm19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhpxu_QgWL4pEiNn7weY0hLVk7bZYpPy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973382351168-2bish4pm2iqpqcaau2iuh6hganvqcm19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
